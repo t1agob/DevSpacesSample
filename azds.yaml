@@ -1,0 +1,20 @@
+kind: helm-release
+apiVersion: 1.0
+build:
+  context: .
+  dockerfile: Dockerfile
+install:
+  chart: charts/devspacessample
+  set:
+    image:
+      tag: $(tag)
+      pullPolicy: Never
+    disableProbes: true
+    ingress:
+      hosts:
+      # This expands to [space.s.]devspacessample.<guid>.<region>.aksapp.io
+      - $(spacePrefix)devspacessample$(hostSuffix)
+configurations:
+  develop:
+    build:
+      useGitIgnore: true

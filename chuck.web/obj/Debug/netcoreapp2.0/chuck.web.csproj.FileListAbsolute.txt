@@ -1,0 +1,11 @@
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\bin\Debug\netcoreapp2.0\chuck.web.deps.json
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\bin\Debug\netcoreapp2.0\chuck.web.runtimeconfig.json
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\bin\Debug\netcoreapp2.0\chuck.web.runtimeconfig.dev.json
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\bin\Debug\netcoreapp2.0\chuck.web.dll
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\bin\Debug\netcoreapp2.0\chuck.web.pdb
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\obj\Debug\netcoreapp2.0\chuck.web.csprojAssemblyReference.cache
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\obj\Debug\netcoreapp2.0\chuck.web.csproj.CoreCompileInputs.cache
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\obj\Debug\netcoreapp2.0\chuck.web.AssemblyInfoInputs.cache
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\obj\Debug\netcoreapp2.0\chuck.web.AssemblyInfo.cs
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\obj\Debug\netcoreapp2.0\chuck.web.dll
+C:\Users\tiagob\Source\Repos\DevSpacesSample\chuck.web\obj\Debug\netcoreapp2.0\chuck.web.pdb
